@@ -78,6 +78,10 @@
 
 }
 
-  .events .article-list {
-
+  .events .event-list {
+    width: 800px;
+    margin: 0px auto;
   }
+    .events .event-list .event {
+
+    }
