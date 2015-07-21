@@ -46,7 +46,10 @@ Session.vim
 /content/tmp/*
 /content/data/*
 /content/apps/**/*
+<<<<<<< HEAD
 # /content/themes/**/*
+=======
+>>>>>>> updated git ignore
 /content/images/**/*
 !/content/themes/casper/**
 !/README.md
